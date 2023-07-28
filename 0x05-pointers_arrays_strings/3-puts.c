@@ -11,9 +11,9 @@ int a = 0;
 
 while (str[a])
 {
-putchar(str[a]);
+_putchar(str[a]);
 a++;
 }
-putchar('\n');
+_putchar('\n');
 return (0);
 }
