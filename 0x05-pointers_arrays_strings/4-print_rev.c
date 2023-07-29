@@ -15,5 +15,4 @@ a++;
 while (a--)
 _putchar(s[a]);
 _putchar('\n');
-return (0);
 }
